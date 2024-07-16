@@ -4,7 +4,7 @@ function Homepage() {
   return (
     <>
     <div>Homepage</div>
-
+    <nav hre="home">Fantasy Games</nav>
     </>
     
   )
