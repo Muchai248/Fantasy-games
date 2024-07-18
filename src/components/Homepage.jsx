@@ -4,7 +4,9 @@ function Homepage() {
   return (
     <>
     
-    <nav hre="home">Fantasy Games</nav>
+    <nav> 
+        <div className="nav-wrapper">Dashboard</div>
+    </nav>
     </>
     
   )
