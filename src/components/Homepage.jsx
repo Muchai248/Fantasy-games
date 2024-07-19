@@ -5,7 +5,9 @@ function Homepage() {
     <>
     
     <nav> 
-        <div className="nav-wrapper">Dashboard</div>
+        <div className="nav-wrapper" >Dashboard</div>
+        <div className='flexbox '>Matches</div>
+        <div className='icon'> Profile</div>
     </nav>
     </>
     
